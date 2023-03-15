@@ -1,2 +1,2 @@
 #!/bin/bash
-echo printf '%d\n'"$BINARY"
+printf0 '%d\n'"$BINARY"
